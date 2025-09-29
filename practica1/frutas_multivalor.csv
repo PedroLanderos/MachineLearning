@@ -1,0 +1,75 @@
+nombre,color,citrica,tropical,con_semillas,se_pela,dulce,apariciones
+acerola,rojo,True,True,True,False,True,0
+aguacate,negro|verde,False,False,True,True|False,True,21
+albaricoque,naranja,False,False,True,False,True,0
+arandano,azul,False,False,True,False,True,0
+arandano rojo,rojo,False,False,True,False,False,0
+banana,amarillo,False,True,False,True,True,0
+bergamota,verde,True,False,True,True,False,0
+cana,verde,False,True,False,True,True,0
+caqui,naranja,False,False,True,False,True,0
+carambola,amarillo,False,True,True,False,True,0
+cereza,rojo,False,False,True,False,True,0
+chirimoya,verde,False,True,True,True,True,0
+ciruela,morado,False,False,True,False,True,1
+ciruela roja,rojo,False,False,True,False,True,0
+clementina,naranja,True,False,False,True,True,0
+coco,cafe|marron,False,True,True|False,True,True|False,10
+durazno,naranja,False,True|False,True,False,True,1
+durian,verde,False,True,True,True,True,0
+frambuesa,rojo,False,False,True,False,True,0
+fresa,rojo,True|False,True|False,True,False,True|False,23
+granada,rojo,False,False,True,True,True,0
+granadilla,naranja,False,True,True,True,True,0
+grosella,rojo,False,False,True,False,False,0
+grosella negra,morado,False,False,True,False,False,0
+guanabana,verde,False,True,True,True,True,0
+guayaba,amarilla|amarillo,True|False,True|False,True,False,True,20
+higo,morado,False,False,True,False,True,0
+jocote,rojo,False,True,True,False,True,0
+kiwi,cafe|marron,False,True|False,True,True,True,0
+kumquat,naranja,True,True,True,False,True,0
+lichi,rosa,False,True,True,True,True,0
+lima,verde,True,False,True,True,False,0
+limon,amarillo|verde,True,True|False,True,True|False,False,27
+longan,cafe|marron,False,True,True,True,True,0
+mamey,cafe|marron,False,True,True,True,True,0
+mandarina,naranja,True,False,False,True,True,14
+mandarino,naranja,True,False,True,True,True,0
+mango,amarillo|naranja,False,True|False,True,True,True,20
+mangostan,morado,False,True,True,True,True,0
+manzana,rojo,False,False,True,False,True,30
+manzana amarilla,amarillo,False,False,True,False,True,0
+manzana verde,verde,False,False,True,False,True,0
+maracuya,amarillo|morado,True|False,True,True,True|False,True,0
+maracuya amarillo,amarillo,False,True,True,True,True,0
+melocoton,naranja,False,False,True,False,True,0
+melon,amarillo|beige,False,True|False,True,True,True,16
+membrillo,amarillo,False,False,True,True,False,0
+mora,morado,False,False,True,False,True,0
+naranja,naranja,True,True|False,True,True,True|False,28
+nectarina,naranja,False,False,True,False,True,0
+nispero,amarillo,False,False,True,False,True,0
+papaya,naranja,False,True,True,True,True,1
+papayuela,verde,False,True,True,True,True,0
+pera,verde,False,True|False,True,False,True,15
+pera roja,rojo,False,False,True,False,True,0
+physalis,amarillo,False,True,True,False,True,0
+pina,amarillo|verde,True|False,True|False,True|False,True,True,17
+pitahaya,rosa,False,True,True,True,True,0
+pitanga,rojo,False,True,True,False,True,0
+platano,amarilla|amarillo,False,True|False,False,True,True,27
+pomarin,amarillo,False,True,True,False,True,0
+pomarrosa,rosa,False,True,True,False,True,0
+pomelo,rosa,True,False,True,True,False,0
+rambutan,rojo,False,True,True,True,True,0
+sandia,verde,False,True|False,True,True,True,19
+tamarindo,cafe|marron,False,True,True,True,False,0
+toronja,naranja|rosa,True,True|False,True,True,False,0
+tuna,verde,False,True|False,True,True,True,0
+uchuva,amarillo,False,True,True,False,True,0
+uva,morado|verde,True|False,True|False,True|False,False,True,24
+yaca,verde,False,True,True,True,True,0
+yuzu,amarillo,True,False,True,True,False,0
+zapote,cafe|marron,False,True,True,True,True,0
+zapote negro,cafe|marron,False,True,True,True,True,0
