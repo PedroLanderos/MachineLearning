@@ -1,0 +1,175 @@
+¿Quién creó Duolingo?
+Duolingo fue creado por Luis von Ahn, Severin Hacker y el equipo de Duolingo.
+
+¿Dónde puedo obtener ayuda oficial?
+En el Centro de Ayuda de Duolingo, en la Duolingo Wiki, o en el área de discusiones de la comunidad.
+
+¿Cuál es el modelo de negocio de Duolingo?
+Duolingo gana dinero con el Duolingo English Test, las suscripciones de Súper Duolingo/Duolingo Max y compras dentro de la aplicación.
+
+¿Cada cuánto salen nuevas actualizaciones?
+Cada pocas semanas. Algunas funciones se prueban, cambian o desaparecen según los resultados.
+
+¿Por qué Duolingo no tiene X función opcional?
+Añadir demasiadas funciones haría la app confusa y difícil de mantener, por eso priorizan la simplicidad.
+
+¿Por qué yo tengo una función que mis amigos no tienen (o al revés)?
+Duolingo hace pruebas A/B: lanza funciones solo a un grupo de usuarios y después decide si las mantiene.
+
+Tenía una función y ya no la tengo, ¿por qué?
+Si una función no muestra buenos resultados, puede retirarse o ponerse en pausa para mejorarla.
+
+¿Por qué cambió mi curso?
+Porque Duolingo actualiza los cursos constantemente para hacerlos más efectivos y alinearte con el nuevo contenido.
+
+¿Cuántos idiomas ofrece Duolingo?
+Alrededor de 39 idiomas desde inglés, incluyendo español, francés, navajo o klingon. También se puede aprender catalán desde español e inglés desde más de 25 idiomas base.
+
+¿Cuántos idiomas puedo aprender a la vez?
+No hay límite. Puedes estudiar varios en paralelo.
+
+¿Qué idiomas inventados enseña Duolingo?
+Klingon, Esperanto y Alto Valyrio.
+
+¿Qué lenguas en peligro puedo aprender en Duolingo?
+Gaélico escocés, navajo y hawaiano.
+
+¿Duolingo tiene idiomas africanos?
+Sí: suajili y zulú. El curso de xhosa se retiró en 2023.
+
+¿Qué idioma debería aprender en Duolingo?
+Depende de tu objetivo: español o mandarín para el CV, francés para viajes, o klingon/alto valyrio por diversión.
+
+¿Cómo empiezo otro curso en Duolingo?
+Haz clic en la bandera, selecciona “+” y elige el idioma.
+
+¿Cómo cambio de idioma en la aplicación?
+Haz clic en la bandera y selecciona el curso que quieras practicar.
+
+¿Cómo reinicio un curso en Duolingo?
+Debes eliminarlo desde tu perfil y volver a agregarlo.
+
+¿Cómo elimino un idioma en Duolingo?
+Entra en Perfil → Configuración → Cursos → selecciona idioma → Quitar.
+
+¿Qué es la racha?
+Es el número de días seguidos que completas lecciones. Sirve como motivación para practicar a diario.
+
+¿Qué son las Ligas y divisiones?
+Son competencias semanales donde compites con otros usuarios al ganar EXP.
+
+¿Qué cursos tienen Stories (historias)?
+Desde inglés: francés, español, portugués, alemán, italiano y japonés.
+Para aprender inglés: alemán, español, francés, italiano, portugués, turco, ruso, ucraniano, hindi, coreano, chino y japonés.
+Además, existe el proyecto comunitario Duostories con miles de historias extra.
+
+¿Qué idiomas tienen podcasts en Duolingo?
+Cuatro: español (para angloparlantes), francés (para angloparlantes), inglés para hispanohablantes e inglés para lusohablantes.
+
+¿Cómo busco, sigo o bloqueo usuarios en Duolingo?
+Para seguir: entra al perfil y pulsa “Seguir”.
+Para dejar de seguir: pulsa “Siguiendo”.
+Para bloquear: Perfil → Lista de amigos → Usuario → Bloquear.
+Para reportar: Perfil → “Reportar usuario”.
+
+¿Dónde veo a mis amigos en Duolingo?
+En tu Perfil, tanto en la app como en la web, aparece tu lista de amigos y sus estadísticas.
+
+¿Qué pasa si no puedo seguir a alguien?
+Verifica tu correo, completa una lección si tu cuenta está inactiva o revisa si eres menor de 13 años o tienes el perfil privado.
+
+¿Cómo envío felicitaciones en Duolingo?
+Cuando un amigo alcanza un objetivo, la app te permite enviar un mensaje de apoyo.
+
+¿Cómo hago privado mi perfil en Duolingo?
+Entra a Configuración de privacidad y desmarca “Volver público mi perfil”.
+
+¿Cómo cambio mi nombre de usuario o correo electrónico?
+En Configuración, edita nombre de usuario o correo y guarda cambios. Si ya están en uso, deberás modificarlos.
+
+Tengo problemas para acceder a mi cuenta, ¿qué hago?
+Restablece tu contraseña en duolingo.com/forgot_password. Si entraste con Google o Facebook, usa ese correo.
+
+¿Cómo elimino mi cuenta y mis datos?
+Solicita la eliminación en la Bóveda de datos de Duolingo. Puede tardar hasta 30 días.
+
+¿Qué hago si mis datos se vieron comprometidos?
+Si recibiste un aviso oficial, cambia tus contraseñas y protege tus cuentas.
+
+¿Qué es Súper Duolingo?
+Una suscripción que incluye: sin anuncios, vidas ilimitadas, práctica personalizada, repaso de errores, desafíos sin límites e intentos ilimitados en niveles legendarios.
+
+¿Qué es el Plan Familiar de Súper Duolingo?
+Permite compartir Súper Duolingo con hasta 6 miembros.
+
+¿Qué es Duolingo Max?
+Incluye todo de Súper Duolingo y funciones con IA: Explica mi respuesta, Juego de roles y Videollamadas con Lily.
+
+¿Cómo cancelo mi suscripción a Súper Duolingo?
+Desde la plataforma de compra (Google Play, Apple). Eliminar la app o tu cuenta no cancela la suscripción.
+
+¿Puedo pedir un reembolso de mi suscripción?
+En general no. Depende de Apple o Google Play.
+
+¿Cómo uso un código promocional en Duolingo?
+Entra a duolingo.com/redeem, introduce el código y sigue los pasos.
+
+¿Se puede aprender lengua de señas en Duolingo?
+No. Se recomienda recurrir a clases locales o recursos online.
+
+¿Duolingo añadirá más idiomas?
+En 2022 se añadieron criollo haitiano y zulú. Actualmente se enfocan en mejorar los cursos existentes y alinearlos con marcos CEFR/ACTFL.
+
+¿Se puede aprender completamente un idioma solo con Duolingo?
+No. Es un gran inicio, pero no reemplaza la práctica real y el estudio adicional.
+
+¿Alguien logró fluidez solo con Duolingo?
+Algunos usuarios han alcanzado un nivel B2 en idiomas como español o francés, pero la mayoría necesita apoyo adicional.
+
+¿Qué planes ofrece Duolingo?
+Tres: Gratis, Súper y Súper Familia.
+
+¿Qué incluye el plan Gratis?
+Acceso al contenido de aprendizaje básico de los cursos (con anuncios y sin las ventajas de Súper).
+
+¿Qué incluye Súper Duolingo?
+Sin anuncios, vidas ilimitadas, práctica de habilidades, repaso de errores, desafíos sin límites y Nivel legendario sin límites.
+
+¿Qué incluye Súper Familia?
+Todos los beneficios de Súper Duolingo para hasta 6 usuarios.
+
+¿Puedo probar Súper Duolingo gratis?
+Sí, hay prueba gratis de 1 semana.
+
+¿Cómo funciona la prueba gratis de Súper?
+Día 0: acceso completo · Día 5: recordatorio · Día 7: se cobra si no cancelas.
+
+¿Cuándo me cobran después de la prueba?
+En el día 7. Debes cancelar al menos 24 horas antes para evitar el cargo.
+
+¿Hay compromiso de permanencia?
+No. Puedes cancelar en cualquier momento.
+
+¿Cancelar la app cancela mi suscripción?
+No. Debes cancelarla desde la tienda donde la compraste.
+
+¿El Plan Familiar afecta mi progreso o racha si entro o salgo?
+No, tu progreso y racha se mantienen.
+
+¿Cuántas personas pueden usar Súper Familia?
+Hasta 6 usuarios.
+
+¿Súper Duolingo tiene anuncios?
+No. Solo el plan Gratis incluye anuncios.
+
+¿Mi suscripción ayuda a mantener Duolingo gratuito?
+Sí. Tu suscripción financia la educación gratuita para millones de usuarios.
+
+¿En qué plataformas puedo usar Duolingo y gestionar mi suscripción?
+En iOS (App Store) y Android (Google Play).
+
+¿Cuántos cursos hay disponibles en Duolingo?
+Más de 100 cursos de idiomas.
+
+¿Qué beneficios de Súper me ayudan a progresar más rápido?
+Vidas ilimitadas, práctica personalizada, repaso de errores, nivel legendario sin límites y sin anuncios.
