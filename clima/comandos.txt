@@ -1,0 +1,5 @@
+python crearcsv.py 2020-11-10 2025-11-10
+python entrenamiento.py weather_2020-11-10_to_2025-11-10.csv
+python prediccion.py 2025-11-10 17:00 
+
+en prediccion es anho mes dia hora 

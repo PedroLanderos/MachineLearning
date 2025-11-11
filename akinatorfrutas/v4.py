@@ -252,7 +252,7 @@ def matches_sets(candidate, answers):
 def filter_candidates(db_rows_sets, answers):
     return [c for c in db_rows_sets if matches_sets(c, answers)]
 
-# ===== Aprendizaje (usa respuestas actuales) =====
+
 def learning_mode_with_current_answers(csv_path, answers):
     print("\nNo acerte. Vamos a aprender esta fruta (solo necesito el nombre).")
     nombre = to_lc(input("Nombre: "))
@@ -269,7 +269,7 @@ def learning_mode_with_current_answers(csv_path, answers):
     append_or_merge(csv_path, row_sets)
     print(f"¡Gracias! Actualice/anadi '{nombre}' al CSV (fusion multivalor).")
 
-# ===== Ranking por 'apariciones' y nombre =====
+
 def rank_candidates_by_popularity(candidates):
     # más apariciones primero; empate -> nombre alfabético (asc)
     return sorted(candidates, key=lambda c: (-int(c.get("apariciones", 0)), c["nombre"]))
